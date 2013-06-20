@@ -1,11 +1,11 @@
-Lucius_dark
+Lucius dark
 ===========
-VIM colorscheme
 
-Fork of the lucius colorscheme (https://github.com/jonathanfilip/vim-lucius).
+Fork of the lucius colorscheme for VIM (https://github.com/jonathanfilip/vim-lucius).
 I've just made it darker.
+See screenshots below.
 
 Screenshots
 ===========
 
-![alt tag]()
+![alt tag](http://i.imgur.com/Xcj30Yy.png)
